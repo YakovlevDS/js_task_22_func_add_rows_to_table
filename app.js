@@ -1,4 +1,4 @@
-// ? Task: Modify paragraph text style through javascript code using button
+// ? Task: JavaScript function to add rows to a table
 
 // Solution 1
 const insertRow=()=>
